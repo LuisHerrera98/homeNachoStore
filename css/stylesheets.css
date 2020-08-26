@@ -1,0 +1,94 @@
+
+.contenedor{
+    margin: 70px 50px;
+    display: block;
+    font-size: 12px;
+}
+.header{
+    background-color:rgba(0, 0, 0, 0.97);
+    color: white;
+    height: 92px;
+}
+body{
+    margin:0;
+    font-family: "Open Sans", sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    display: inline inline-block;
+    padding: 18px;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+.opciones{
+}
+.envio{
+    color: rgba(207, 207, 201);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    border: black 8px solid;
+    display: block;
+}
+.imagenLogo{
+    width: 55px;
+    border-radius: 40px;
+    padding: 5px;
+    margin: -110px 5px;
+    display: block;
+}
+.prueba{
+    background-color:black;
+    color:wheat;
+    text-align: center;
+    font-size: 20px;
+    border: red 5px solid;
+}
+.derecha-superior{
+    text-align: right;
+    margin: -42px 10px;
+    background-color: black;
+    display: block;
+}
+.logo{
+    width: 300px;
+    display: block;
+    margin: 8px auto;
+    background-color: rgb(131, 37, 37);
+}
+.nombreLogo{
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    font-size: 33px;
+    display: block;
+    margin-top: -10px ;
+}
+.carrito{
+    width: 35px;
+    display: block;
+    margin: 65px 1310px;
+}
+div{
+    display: block;
+}
+p{
+    color: black;
+}
+.buscar{
+    padding-left: 10px;
+    display: inline-block;
+}
+.busqueda{
+    padding-right: 10px;
+    border-radius: 10px;
+}
+.palabra{
+    padding-left: 340px;
+}
