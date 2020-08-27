@@ -3,6 +3,7 @@ form{
     height: 400px;
     background-color:white;
     margin: auto;
+    display: block;
 }
 .form{
     border: none;
