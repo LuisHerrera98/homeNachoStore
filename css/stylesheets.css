@@ -58,7 +58,7 @@ ul li a{
     display: block;
 }
 .logo{
-    width: 300px;
+    width: 220px;
     display: block;
     margin: 8px auto;
     background-color: rgb(131, 37, 37);
@@ -91,4 +91,17 @@ p{
 }
 .palabra{
     padding-left: 340px;
+}
+.btn-whatsapp {
+    display:block;
+    width:60px;
+    height:60px;
+    color:#fff;
+    position: fixed;
+    right:30px;
+    bottom:20px;
+    border-radius:50%;
+    line-height:80px;
+    text-align:center;
+    z-index:999;
 }
